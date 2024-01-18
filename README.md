@@ -4,6 +4,8 @@
 
 This repository contains data analysis and insights generated for Essies Ltd's new product launch. The analysis focuses on segmented customer and regional targeting, retail sales, and promotional events. The analysis was conducted by Benson based on the data provided by frontline retailers.
 
+![Dashboard Preview](productanalysis.png)
+
 ## Table of Contents
 
 - [Requirements](#requirements)
